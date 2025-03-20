@@ -5,6 +5,15 @@ header{
     padding: 0;
     height: max-content;
     border: solid black 0.5vw;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+
+}
+
+body{
+    margin-top: 0;
+    margin-left: 0;
 }
 
 header h1{
@@ -30,6 +39,7 @@ header button{
     margin-left: auto;
     margin-right: auto;
     border: solid black 0.5vw;
+    border-top: 0cap;
 }
 
 .unselectable {
@@ -42,11 +52,16 @@ header button{
 }
 
 input{
+    margin-top: 0;
+    padding-top:0 ;
     width: 99%;
     border: 0cap;
     outline: none;
     min-height: 67vh;
     vertical-align: top;
+    
+    
+
 }
 
 
