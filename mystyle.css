@@ -1,11 +1,26 @@
 header{
     background-color: rgb(143, 143, 201);
     font-size: 4vw;
+    margin: 0%;
+    padding: 0;
+    height: max-content;
 }
 
+header h1{
+    margin: 0%;
+    font-size: 5vw;
+}
+
+
 header button{
-    width: 20%;
-    padding: 4vw;
+    width: max-content;
+    padding: 0.5vw;
+    
+    margin-top: 0;
+    padding-left: 1.5vw;
+    padding-right: 1.5vw;
+    border-radius: 2vw / 3vw;
+    margin-left: 2vw;
     background-color: cadetblue;
     border: solid rgb(55, 69, 69) 3px;   
 }
