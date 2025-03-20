@@ -1,0 +1,12 @@
+header{
+    background-color: rgb(143, 143, 201);
+    font-size: 4vw;
+}
+
+header button{
+    width: 20%;
+    padding: 4vw;
+    background-color: cadetblue;
+    border: solid rgb(55, 69, 69) 3px;
+    
+}
